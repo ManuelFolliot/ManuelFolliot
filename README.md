@@ -4,3 +4,4 @@
 
 :mortar_board: I'm currently in training at O'Clock, learning JS, PHP, Laravel and Symfony. I'll be an intern at Science Edu, starting at the end of April.
 :floppy_disk: I try to upload updates on personal projects every week, feel free to give any feedback !
+:speaker: I speak French as my native language and English fluently. A few notions in Spanish and I'm learning Persian as a side project.
